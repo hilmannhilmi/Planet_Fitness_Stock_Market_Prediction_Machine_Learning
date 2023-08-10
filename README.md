@@ -7,13 +7,19 @@ The dataset consists of Planet Fitness's historical stock price data, including 
 # Methodology
 The project follows these key steps:
 
-Data Visualization: Plotting the historical adjusted closing prices. /n
-Data Splitting: Dividing the data into training and testing sets based on date ranges. The first four years are used for training, and the fifth year is used for testing./n
-Model Training: Training a Linear Regression model to understand the relationship between the year and adjusted closing price.
-Prediction: Making predictions for the fifth year using the trained model.
-Evaluation: Calculating the Mean Squared Error (MSE) to evaluate the model's accuracy.
-Result Plotting: Visualizing the predicted and actual adjusted closing prices for the fifth year.
-Results
+##### Data Visualization: 
+Plotting the historical adjusted closing prices. /n
+##### Data Splitting: 
+Dividing the data into training and testing sets based on date ranges. The first four years are used for training, and the fifth year is used for testing./n
+##### Model Training: 
+Training a Linear Regression model to understand the relationship between the year and adjusted closing price.
+##### Prediction: 
+Making predictions for the fifth year using the trained model.
+##### Evaluation: 
+Calculating the Mean Squared Error (MSE) to evaluate the model's accuracy.
+##### Result Plotting: 
+Visualizing the predicted and actual adjusted closing prices for the fifth year.
+##### Results:
 The project successfully predicts the adjusted closing prices for Planet Fitness for the fifth year using a Linear Regression model. The predictions are visualized alongside the actual values, and the model's performance is evaluated using the mean squared error.
 
 # How to Run

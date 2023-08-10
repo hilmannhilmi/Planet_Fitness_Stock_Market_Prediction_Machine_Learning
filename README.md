@@ -7,8 +7,8 @@ The dataset consists of Planet Fitness's historical stock price data, including 
 # Methodology
 The project follows these key steps:
 
-Data Visualization: Plotting the historical adjusted closing prices.
-Data Splitting: Dividing the data into training and testing sets based on date ranges. The first four years are used for training, and the fifth year is used for testing.
+Data Visualization: Plotting the historical adjusted closing prices. /n
+Data Splitting: Dividing the data into training and testing sets based on date ranges. The first four years are used for training, and the fifth year is used for testing./n
 Model Training: Training a Linear Regression model to understand the relationship between the year and adjusted closing price.
 Prediction: Making predictions for the fifth year using the trained model.
 Evaluation: Calculating the Mean Squared Error (MSE) to evaluate the model's accuracy.

@@ -20,7 +20,7 @@ Calculating the Mean Squared Error (MSE) to evaluate the model's accuracy.
 ##### Result Plotting: 
 Visualizing the predicted and actual adjusted closing prices for the fifth year.
 ##### Results:
-The project successfully predicts the adjusted closing prices for Planet Fitness for the fifth year using a Linear Regression model. The predictions are visualized alongside the actual values, and the model's performance is evaluated using the mean squared error.
+The project successfully predicts the adjusted closing prices for Planet Fitness for the fifth year using a Linear Regression model, SVM and Random Forest. The best machine learning algorithms that provides the highest accuracy is Random Forest with MSE at 3.87 after some feature engineering has been done. The predictions are visualized alongside the actual values, and the model's performance is evaluated using the mean squared error.
 
 # How to Run
 Ensure that you have the required dependencies installed.
